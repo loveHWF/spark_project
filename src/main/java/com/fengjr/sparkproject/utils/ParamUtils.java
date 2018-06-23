@@ -1,4 +1,4 @@
-package com.fengjr.spark_project.utils;
+package com.fengjr.sparkproject.utils;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
@@ -22,6 +22,7 @@ public class ParamUtils {
 		try {
 			if(args != null && args.length > 0) {
 				return Long.valueOf(args[0]);
+
 			}
 		} catch (Exception e) {
 			e.printStackTrace();

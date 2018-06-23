@@ -1,4 +1,4 @@
-package com.fengjr.spark_project.utils;
+package com.fengjr.sparkproject.utils;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
